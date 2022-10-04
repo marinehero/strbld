@@ -8,8 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="BenchmarkDotnet" Version="0.13.1" />
+    <PackageReference Include="BenchmarkDotnet" Version="0.13.2" />
     <PackageReference Include="Perfolizer" Version="0.2.1" />
+		<PackageReference Include="Microsoft.IO.RecyclableMemoryStream" Version="2.2.1" />
   </ItemGroup>
 
 </Project>
